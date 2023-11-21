@@ -2,14 +2,14 @@
 
 
 /* 
-CONTENTS                                                                                             
+TABLE OF CONTENTS                                                                                             
 1.  Global styles                                                                                    
     1.1 CSS reset                                                                                    
     1.2 Colors                                                                                           
-3.  Typography                                                                                       
-4.  Areas
-    4.1 Background                                                                                            
-    4.2 QR code component card
+2.  Typography                                                                                       
+3.  Areas
+    3.1 Background                                                                                            
+    3.2 QR code component card
 */
 
 
@@ -37,7 +37,7 @@ button {
     --white: #FFF;
 }
 
-/* 3 - Typography */
+/* 2 - Typography */
 
 html {
     font-size: 16px;
@@ -61,15 +61,15 @@ body {
     color: var(--grey);
 }
 
-/* 4 - Areas */
+/* 3 - Areas */
 
-/* 4.1 - Background */
+/* 3.1 - Background */
 
 body {
     background-color: var(--light-grey);
 }
 
-/* 4.2 - QR code component card */
+/* 3.2 - QR code component card */
 
 body {
     height: 100vh;
