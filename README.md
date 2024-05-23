@@ -1,9 +1,8 @@
 # QR Code Component
-## Frontend Mentor Challenge
 
-### Description
+[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
-The [challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) was to build out this QR code component and get it looking as close to the design as possible.
+The challenge was to build out the QR code component and get it looking as close to the design as possible.
 
 ### Languages
 
